@@ -30,5 +30,6 @@
   },
   "dependencies": {
     "element-closest-polyfill": "^1.0.2"
-  }
+  },
+  "proxy": "http://localhost:3000"
 }
